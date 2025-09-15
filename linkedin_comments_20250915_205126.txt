@@ -1,0 +1,126 @@
+LinkedIn Comments Scrape Results
+==================================================
+Profile: https://www.linkedin.com/in/shashank-n-security/
+Scrape Date: 2025-09-15 20:51:26
+Latest Comments: 5
+Total Comments: 5
+
+LATEST 5 COMMENTS:
+==================================================
+
+Comment 1:
+Content: We’re Hiring: Cyber Security Intern @ Matters.ai
+
+At Matters.ai, we’re building the future of AI-powered data security and we’re looking for a curious, driven individuals to join us on this journey.
+This isn’t your typical internship. You’ll get hands on experience solving real security challenges protecting sensitive data across cloud, endpoints, and SaaS tools.
+
+What you’ll do:
+-> Design and test real security policies
+-> Support pen-testing & vulnerability assessments
+-> Research new attack techniques and how to stop them
+-> Contribute to red-team exercises & incident response
+-> Learn how companies align with frameworks like ISO 27001, SOC 2, GDPR, HIPAA, PCI-DSS, RBI, SEBI
+
+Who we’re looking for:
+-> Someone passionate about cybersecurity, ethical hacking, or data security
+-> Familiar with tools like Burp Suite, Kali Linux, Wireshark (extra points for Metasploit, Ghidra, reverse engineering)
+-> Curious about AI security, adversarial ML, or malware analysis
+-> Bonus if you’ve done bug bounty or tinkered with exploits for fun
+
+You’ll work alongside experienced security engineers, explore advanced threats, and help us build security-first AI systems while sharpening skills that will launch your cybersecurity career.
+
+📩 Interested? Apply at:
+
+
+
+…more
+Commented: 39m
+Engagement: 30 likes, 4 replies
+Commenter:  (https://www.linkedin.com/in/shashank-n-security/)
+----------------------------------------
+
+Comment 2:
+Content: What's stopping you from coding like this?
+Commented: 3d
+Engagement: 1307 likes, 620 replies
+Commenter:  (https://www.linkedin.com/in/shashank-n-security/)
+----------------------------------------
+
+Comment 3:
+Content: Your next DFIR teammate isn’t human — it’s an LLM agent.
+
+That’s exactly what I built: the Agentic Digital Forensics Toolkit.
+
+An AI forensics agent that guides, explains, and collects evidence
+
+15-phase methodology → memory, processes, network, logs, filesystem
+50+ validated commands with built-in safety controls
+
+Automated, tamper-proof reports and chain of custody
+
+This is more than automation — it’s agentic security in action.
+
+From incident response to classrooms, LLM-powered agents are redefining how we do digital forensics.
+
+Forensics, powered by AI agents. ⚡
+
+Read the blog:
+
+Github Code:
+
+…more
+Commented: 1w
+Engagement: 62 likes, 5 replies
+Commenter:  (https://www.linkedin.com/in/shashank-n-security/)
+----------------------------------------
+
+Comment 4:
+Content: Your next DFIR teammate isn’t human — it’s an LLM agent.
+
+That’s exactly what I built: the Agentic Digital Forensics Toolkit.
+
+An AI forensics agent that guides, explains, and collects evidence
+
+15-phase methodology → memory, processes, network, logs, filesystem
+50+ validated commands with built-in safety controls
+
+Automated, tamper-proof reports and chain of custody
+
+This is more than automation — it’s agentic security in action.
+
+From incident response to classrooms, LLM-powered agents are redefining how we do digital forensics.
+
+Forensics, powered by AI agents. ⚡
+
+Read the blog:
+
+Github Code:
+
+…more
+Commented: 1w
+Engagement: 62 likes, 5 replies
+Commenter:  (https://www.linkedin.com/in/shashank-n-security/)
+----------------------------------------
+
+Comment 5:
+Content: 🚀 Exploring AI Agents in GoLang
+
+GoLang has always been one of my favourite languages for building projects. Recently, while exploring whether AI agents could be built in Go, I came across agent-sdk-go ->
+
+That inspired me to experiment — and I ended up building a GoLang AI agent that generates unit test cases (works best with Gin framework projects).
+⚡ Capabilities
+🧪 Generates unit tests for functions with maximum coverage
+📂 Automatically creates a test file in the correct directory
+🔍 Uses an agentic function tool powered by Go’s AST types to fetch dependent files
+
+While the generated tests may still need a bit of refactoring and fine-tuning, this tool provides a strong head start—saving valuable time compared to writing tests from scratch.
+👉 Check it out here:
+
+💡 Next step I’m considering: adding a test validator agent to ensure the generated test cases are not just comprehensive, but also reliable and high quality.
+Would love to hear your thoughts, feedback, or ideas for improvements!
+…more
+Commented: 1w
+Engagement: 26 likes, 2 replies
+Commenter:  (https://www.linkedin.com/in/shashank-n-security/)
+----------------------------------------
+
